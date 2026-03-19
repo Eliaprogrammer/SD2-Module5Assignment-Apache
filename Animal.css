@@ -1,0 +1,42 @@
+h1, h3{
+	text-align: center;
+	font-size: 35px;
+}
+
+h4{
+	
+	color: blue;
+	margin: 10px 10px 10px 10px;
+
+}
+
+
+p{
+	font-size: 25px;
+}
+
+.animals{
+	font-size: 30px;
+	margin: 10px 10px 10px 10px;
+	
+}
+
+
+.animalButtons button{
+	font-size: 35px;
+	padding: 10px 10px 10px 10px;
+	margin: 15px 15px 15px 15px;
+	color: blue;
+	text-align: center;
+	background-color: lightblue;
+
+}
+
+
+.pictures img{
+	width: 500px;
+	height: 500px;
+	margin: auto;
+	border-radius: 50%;
+}
+
